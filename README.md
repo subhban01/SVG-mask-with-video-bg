@@ -5,5 +5,9 @@
 Checkout the <a href="https://subhban01.github.io/svg-mask/">DEMO</a>
 
 
-MIT License
-Copyright (c) 2017 Subhadeep Banerjee
+
+
+
+
+<div>MIT License</div>
+<div>Copyright (c) 2017 Subhadeep Banerjee</div>
